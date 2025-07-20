@@ -4,12 +4,12 @@ import { BadgeGroup } from "@/components/base/badges/badge-groups";
 import { Button } from "@/components/base/buttons/button";
 import { Form } from "@/components/base/form/form";
 import { Input } from "@/components/base/input/input";
-import { Header } from "@/components/marketing/header-navigation/components/header";
+// import { Header } from "@/components/marketing/header-navigation/components/header";
 
 export const HeroSplitImage01 = () => {
     return (
         <Fragment>
-            <Header className="bg-primary" />
+            {/* <Header className="bg-primary" /> */}
 
             <section className="relative bg-primary py-16 lg:flex lg:min-h-180 lg:items-center lg:py-24">
                 <div className="mx-auto flex w-full max-w-container items-center px-4 md:px-8">
